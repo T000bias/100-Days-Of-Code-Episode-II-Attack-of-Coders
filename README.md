@@ -3,6 +3,11 @@ Shortcut inline styles
   center element: align="center"
   anchor links: id="day##"
 -->
+
+<!--
+  Notes:
+    No google drive links will work for img elements.
+-->
 <h1 align="center"> 100 Days Of Code: Episode II - Attack of the Coder </h1>
 <p> Staring: Rodney Foster </p>
 
@@ -33,11 +38,11 @@ Shortcut inline styles
       <img  src="https://c.tenor.com/jmiZ4AXO_DoAAAAC/here-we-go-again-gta.gif" alt="gif" height="500px" width="500px">
     </div>
  
-  ### Task(s)
-  - [x] Coffee Chat
-  - [x] 100Devs Class 07
-  - [x] Connect with software engineers on social media
-  
+  <ul>
+    <li>Coffee Chat</li>
+    <li>100Devs Class 07</li>
+    <li>Connect with software engineers on social media</li>
+  </ul>
     <h3> Summary </h3>
     <p> I finished class 7 and connected with some people on LinkedIn and Twitter. Thinking about streaming this    process until completion. Within this time frame, 100Devs would be finished. A funny thing happened in my coffee chat today. The byte logic guy wanted me to share my pay from work with him. Essentially, I would handle all the meetings and in-person events and he would handle all the coding portion. This is by far the craziest thing I have ever been offered. Didn't get all my task done, but thats okay
   </p>
@@ -46,7 +51,7 @@ Shortcut inline styles
     <div id="gif-center" align="center">
       <img src="https://c.tenor.com/c-keT9-x2SgAAAAM/sponge-bob-square-pants-work-out.gif" alt="gif" height="500px" width="500px">
     </div>
-  ### Task(s)
+   <h3> Task(s) </h3>
   
   <h3> Summary </h3>
   <p></p>
