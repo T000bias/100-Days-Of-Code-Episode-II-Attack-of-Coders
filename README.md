@@ -6,8 +6,9 @@ Shortcut inline styles
 <h1 align="center"> 100 Days Of Code: Episode II - Attack of the Coder </h1>
 <p> Staring: Rodney Foster </p>
 
-<h2> Synopsis </h2>
+<h2> Introduction </h2>
 <p>his is my second go around with #100DaysOfCoding. More details in my though processing and links to to all of the resources used each day.</p>
+<img src="https://drive.google.com/file/d/1yCpm8zdopy0kRBAPo3-lai4LbXNN_XsP/view" alt="profilePicture">
 <div id="container">
   <nav>
     <h1> Navigation </h1>
@@ -31,14 +32,12 @@ Shortcut inline styles
     <div id="gif-center" align="center">
       <img  src="https://c.tenor.com/jmiZ4AXO_DoAAAAC/here-we-go-again-gta.gif" alt="gif" height="500px" width="500px">
     </div>
-    <h3> Task(s) </h3>
-    <ul>
-      <li> Coffee Chat </li>
-      <li> Set up a future coffee chat </li>
-      <li> 100Devs Class 07 </li>
-      <li> freeCodeCamp: flexbox </li>
-      <li> Connect with software engineers thru social media </li>
-    </ul>
+ 
+  ### Task(s)
+  - [x] Coffee Chat
+  - [x] 100Devs Class 07
+  - [x] Connect with software engineers on social media
+  
     <h3> Summary </h3>
     <p> I finished class 7 and connected with some people on LinkedIn and Twitter. Thinking about streaming this    process until completion. Within this time frame, 100Devs would be finished. A funny thing happened in my coffee chat today. The byte logic guy wanted me to share my pay from work with him. Essentially, I would handle all the meetings and in-person events and he would handle all the coding portion. This is by far the craziest thing I have ever been offered. Didn't get all my task done, but thats okay
   </p>
@@ -47,6 +46,7 @@ Shortcut inline styles
     <div id="gif-center" align="center">
       <img src="https://c.tenor.com/c-keT9-x2SgAAAAM/sponge-bob-square-pants-work-out.gif" alt="gif" height="500px" width="500px">
     </div>
-  <h3> Task(s) </h3>
+  ### Task(s)
+  
   <h3> Summary </h3>
   <p></p>
