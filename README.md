@@ -3,22 +3,26 @@ Shortcut inline styles
   center element: align="center"
   anchor links: id="day##"
 -->
-<h1 align="center"> 100-Days-Of-Code-Return-of-the-Coder </h1>
+<h1 align="center"> 100 Days Of Code: Episode II - Attack of the Coder </h1>
+<p> Staring: Rodney Foster </p>
+
+<h2> Synopsis </h2>
+<p>his is my second go around with #100DaysOfCoding. More details in my though processing and links to to all of the resources used each day.</p>
 <div id="container">
   <nav>
     <h1> Navigation </h1>
     <table>
       <tr>
-        <th><a href="day1"> Day 1 </a></th>
-        <th><a href="day2"> Day 2 </a></th>
-        <th><a href="day3"> Day 3 </a></th>
-        <th><a href="day4"> Day 4 </a></th>
-        <th><a href="day5"> Day 5 </a></th>
-        <th><a href="day6"> Day 6 </a></th>
-        <th><a href="day7"> Day 7 </a></th>
-        <th><a href="day8"> Day 8 </a></th>
-        <th><a href="day9"> Day 9 </a></th>
-        <th><a href="day10"> Day 10 </a></th>
+        <th><a href="#day1"> Day 1 </a></th>
+        <th><a href="#day2"> Day 2 </a></th>
+        <th><a href="#day3"> Day 3 </a></th>
+        <th><a href="#day4"> Day 4 </a></th>
+        <th><a href="#day5"> Day 5 </a></th>
+        <th><a href="#day6"> Day 6 </a></th>
+        <th><a href="#day7"> Day 7 </a></th>
+        <th><a href="#day8"> Day 8 </a></th>
+        <th><a href="#day9"> Day 9 </a></th>
+        <th><a href="#day10"> Day 10 </a></th>
       </tr>
     </table>
   </nav>
