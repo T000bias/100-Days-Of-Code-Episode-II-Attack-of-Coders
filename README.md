@@ -55,3 +55,20 @@ Shortcut inline styles
   
   <h3> Summary </h3>
   <p></p>
+
+  
+  <hr>
+  <h2 id="day10" align="center"> 1/2 of the FullStack</h2>
+  <div>
+    <img src="" alt="" height="500px" width="500px">
+  </div>
+  <h3>Task(s)</h3>
+  <p>Do</p>
+  <ul>
+    <li> Do - freeCodeCamp: Basic JavaScript: 56/113 Challenges </li>
+    <li> Watch - Kevin Powell: <a href="https://www.youtube.com/watch?v=NanhQvnvbR">Video</a> </li>
+  </ul>
+  <h3>Summary</h3>
+  <p>Today was short. I watched a Kevin Powell video on CUBE CSS and did some freeCodeCamp challenges. Additionally, from here on out I will be uploading Frontend Mentor challenges to all my social media account (Linkedin, Twitter, facebook). It’s imperative that I keep myself accountable for my progress as a software engineer.
+</p>
+  
